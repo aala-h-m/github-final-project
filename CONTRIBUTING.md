@@ -2,6 +2,7 @@
 
 Welcome Contributors!
 Thank you for considering contributing to the centralized repository. This document outlines the guidelines for contributing to the development of Shipping Rates and Calculations.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## Bug Reports
 If you encounter any bugs or issues, please report them by creating an issue after ensuring that the bug has not been reported.
